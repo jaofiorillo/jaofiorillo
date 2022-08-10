@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Fiorillo
 
 - 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando Java e SQL 
+- 🌱 Estudando Java, Spring e SQL 
 - 😄 Pronomes: ele/dele
  <a href="https://github.com/jaofiorillo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaofiorillo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
