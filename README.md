@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Fiorillo
 
-- 🔭 Atualmente trabalho com back-end
+- 🔭 Atualmente trabalho como progamador back-end
 - 🌱 Estudando Java, Spring e SQL 
 - 😄 Pronomes: ele/dele
  <a href="https://github.com/jaofiorillo">
