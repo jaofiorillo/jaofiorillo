@@ -1,7 +1,7 @@
-## Olá, eu sou o João Fiorillo
+## Hi, i am João Fiorillo
 
-- 🔭 Atualmente trabalho como progamador back-end
-- 🌱 Estudando Java, Spring e SQL 
+- 🔭 Back-end Software Developer
+- 🌱 Work with Java, Spring e SQL 
  <a href="https://github.com/jaofiorillo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaofiorillo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaofiorillo&layout=compact&langs_count=7&theme=dark"/>
